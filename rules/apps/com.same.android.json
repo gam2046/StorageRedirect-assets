@@ -8,7 +8,11 @@
  "observers": [
    {
      "source": "Same/image",
-     "description": "saved_pictures"
+     "description": "saved_pictures",
+     "call_media_scan": true,
+     "add_to_downloads": false,
+     "target": "Pictures/same",
+     "allow_child": false
    }
  ]
 }

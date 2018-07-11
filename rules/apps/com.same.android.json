@@ -1,0 +1,14 @@
+{
+ "package": "com.same.android",
+ "recommended": true,
+ "verified": false,
+ "authors": [
+   "gam2046"
+ ],
+ "observers": [
+   {
+     "source": "Same/image",
+     "description": "saved_pictures"
+   }
+ ]
+}
